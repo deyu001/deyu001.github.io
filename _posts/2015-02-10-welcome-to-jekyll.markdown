@@ -32,8 +32,9 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 
 <div align="center">
-<img src="../assets/1556505916245.png" height="330" width="390" >
-<img src="../assets/1556506571383.png" height="330" width="490" >
-<img src="../assets/1556506619408.png" height="330" width="390" > 
+<img src="/assets/1556505916245.png" height="330" width="390" >
+<img src="/assets/1556506571383.png" height="330" width="490" >
+<img src="/assets/1556506619408.png" height="330" width="390" > 
 </div>
 
+![a screenshot example](/assets/1556505916245.png). 
